@@ -3,10 +3,13 @@
 Most of what I make starts as a fix for something that annoyed me: a dashboard for the short-form videos I post, and a stack of small Go tools for the everyday stuff that slows down coding.
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go%2Cpython%2Cts%2Cjs%2Cswift%2Ccpp%2Cbash&theme=dark">
-    <img src="https://skillicons.dev/icons?i=go%2Cpython%2Cts%2Cjs%2Cswift%2Ccpp%2Cbash&theme=light" height="44" alt="Go, Python, TypeScript, JavaScript, Swift, C++, Bash">
-  </picture>
+  <a href="https://go.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go&theme=dark"><img src="https://skillicons.dev/icons?i=go&theme=light" height="44" alt="Go"></picture></a>
+  <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark"><img src="https://skillicons.dev/icons?i=python&theme=light" height="44" alt="Python"></picture></a>
+  <a href="https://www.typescriptlang.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark"><img src="https://skillicons.dev/icons?i=ts&theme=light" height="44" alt="TypeScript"></picture></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark"><img src="https://skillicons.dev/icons?i=js&theme=light" height="44" alt="JavaScript"></picture></a>
+  <a href="https://www.swift.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift&theme=dark"><img src="https://skillicons.dev/icons?i=swift&theme=light" height="44" alt="Swift"></picture></a>
+  <a href="https://isocpp.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp&theme=dark"><img src="https://skillicons.dev/icons?i=cpp&theme=light" height="44" alt="C++"></picture></a>
+  <a href="https://www.gnu.org/software/bash/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash&theme=dark"><img src="https://skillicons.dev/icons?i=bash&theme=light" height="44" alt="Bash"></picture></a>
 </p>
 
 ## ReelForge
@@ -21,13 +24,9 @@ Posting stays manual, just faster. Pick a finished video and ReelForge copies ea
 
 <a href="https://reelforge.fyi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/reelforge-dark.svg"><img src="assets/reelforge-light.svg" width="100%" alt="ReelForge's overview: followers, views and likes per hour across TikTok, YouTube, Instagram and X"></picture></a>
 
-### Every platform on one screen
-
-Followers, views and likes per hour, stacked by platform, with your top videos and latest upload beside them.
-
 ## Small tools
 
-Command-line tools I wrote in Go because I kept needing them:
+Command-line tools I wrote in Go:
 
 - [**portkill**](https://github.com/dan2756/PortReaper): see what's holding a port and stop it
 - [**stale-branches**](https://github.com/dan2756/BranchBroom): find merged and months-old Git branches and clear them out
