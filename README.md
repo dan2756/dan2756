@@ -23,7 +23,7 @@ Posting stays manual, just faster. Pick a finished video and ReelForge copies ea
 
 ### Every platform on one screen
 
-Followers, views and likes per hour, stacked by platform, with your top videos and latest upload beside them. The source is [on GitHub](https://github.com/dan2756/ReelForge).
+Followers, views and likes per hour, stacked by platform, with your top videos and latest upload beside them.
 
 ## Small tools
 
