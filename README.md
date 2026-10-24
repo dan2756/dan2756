@@ -1,6 +1,6 @@
 # Hi, I'm DJ
 
-### Most of what I make starts as a fix for something that annoyed me: a dashboard for the short-form videos I post, and a stack of small Go tools for the everyday stuff that slows down coding.
+Most of what I make starts as a fix for something that annoyed me: a dashboard for the short-form videos I post, and a stack of small Go tools for the everyday stuff that slows down coding.
 
 <p>
   <a href="https://go.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go&theme=dark"><img src="https://skillicons.dev/icons?i=go&theme=light" height="44" alt="Go"></picture></a>
@@ -19,9 +19,9 @@
 
 ## ReelForge
 
-### ReelForge is a home base for a short-form video channel. It tracks followers, views and likes hour by hour on TikTok, YouTube, Instagram and X, and scores every video against your typical one so you can see what's working.
+ReelForge is a home base for a short-form video channel. It tracks followers, views and likes hour by hour on TikTok, YouTube, Instagram and X, and scores every video against your typical one so you can see what's working.
 
-### Posting stays manual, just faster. Pick a finished video and ReelForge copies each platform's caption, shows you the file and opens the upload page. No API keys or developer accounts needed.
+Posting stays manual, just faster. Pick a finished video and ReelForge copies each platform's caption, shows you the file and opens the upload page. No API keys or developer accounts needed.
 
 <a href="https://reelforge.fyi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/open-reelforge-dark.svg"><img src="assets/open-reelforge-light.svg" height="44" alt="Open ReelForge at reelforge.fyi"></picture></a>
 <a href="https://github.com/dan2756/ReelForge"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/view-repository-dark.svg"><img src="assets/view-repository-light.svg" height="44" alt="View the ReelForge repository"></picture></a>
@@ -32,14 +32,10 @@
 
 ## Go tools
 
-### [PortReaper](https://github.com/dan2756/PortReaper): see what's holding a port and stop it
+- [**PortReaper**](https://github.com/dan2756/PortReaper): see what's holding a port and stop it
+- [**BranchBroom**](https://github.com/dan2756/BranchBroom): find merged and months-old Git branches and clear them out
+- [**FlakeRadar**](https://github.com/dan2756/FlakeRadar): run a test over and over to see how flaky it really is
+- [**TodoFossil**](https://github.com/dan2756/TodoFossil): list every TODO by how long it's been sitting in the code
+- [**JSONSilhouette**](https://github.com/dan2756/JSONSilhouette): get the shape of unfamiliar JSON without scrolling through it
 
-### [BranchBroom](https://github.com/dan2756/BranchBroom): find merged and months-old Git branches and clear them out
-
-### [FlakeRadar](https://github.com/dan2756/FlakeRadar): run a test over and over to see how flaky it really is
-
-### [TodoFossil](https://github.com/dan2756/TodoFossil): list every TODO by how long it's been sitting in the code
-
-### [JSONSilhouette](https://github.com/dan2756/JSONSilhouette): get the shape of unfamiliar JSON without scrolling through it
-
-### The rest are in [my repositories](https://github.com/dan2756?tab=repositories).
+The rest are in [my repositories](https://github.com/dan2756?tab=repositories).
