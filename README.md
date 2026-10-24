@@ -1,48 +1,42 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" width="100%" alt="Hi, I'm DJ. I build small tools and personal software.">
+</picture>
 
-# dj / dan2756
+<br>
 
-**Small tools. Useful software. A terminal close by.**
+Most of what I make starts as a fix for something that annoyed me: a dashboard for the short-form videos I post, and a stack of small Go tools for the everyday stuff that slows down coding.
 
-[ReelForge](https://github.com/dan2756/ReelForge) · [Go toolbox](#go-toolbox) · [Repositories](https://github.com/dan2756?tab=repositories)
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go%2Cpython%2Cts%2Cjs%2Cswift%2Ccpp%2Cbash&theme=dark">
+    <img src="https://skillicons.dev/icons?i=go%2Cpython%2Cts%2Cjs%2Cswift%2Ccpp%2Cbash&theme=light" height="44" alt="Go, Python, TypeScript, JavaScript, Swift, C++, Bash">
+  </picture>
+</p>
 
-</div>
+## ReelForge
 
----
+<a href="https://github.com/dan2756/ReelForge">
+  <img src="https://raw.githubusercontent.com/dan2756/ReelForge/main/docs/overview.png" width="100%" alt="ReelForge's overview: followers, views and likes per hour across TikTok, YouTube, Instagram and X">
+</a>
 
-```text
-dj@github ~ $ whoami
+One home for a channel that posts to TikTok, YouTube, Instagram and X. It tracks followers, views and likes hour by hour on every platform, scores each video against your typical one, puts the same video side by side across platforms, and gets uploads ready so posting by hand takes seconds. No API keys needed.
 
-  builder of terminal tools and personal software
-  working with Go, Python, and the occasional shell script
+[See ReelForge →](https://github.com/dan2756/ReelForge)
 
-dj@github ~ $ ls projects/
+## Go tools
 
-  ReelForge/      a home base for short-form video
-  go-toolbox/     20 small tools for everyday terminal work
-```
-
-## Featured / ReelForge
-
-A terminal dashboard for short-form video: channel stats, cross-platform comparisons, and a faster manual publishing workflow.
-
-**Python · Terminal UI · Creator tools**
-
-[Explore ReelForge →](https://github.com/dan2756/ReelForge)
-
-## Go toolbox
-
-Small commands for the little things that interrupt a good workflow.
-
-| Area | A few tools |
-| :--- | :--- |
-| **Processes & ports** | [ProcessPerch](https://github.com/dan2756/ProcessPerch) — grouped Mac processes · [PortReaper](https://github.com/dan2756/PortReaper) — find and kill port owners |
-| **Git & code** | [BranchBroom](https://github.com/dan2756/BranchBroom) — clean up old branches · [TodoFossil](https://github.com/dan2756/TodoFossil) — see how long TODOs have been around |
-| **Pipes & data** | [JSONSilhouette](https://github.com/dan2756/JSONSilhouette) — inspect JSON structure · [PipeSpark](https://github.com/dan2756/PipeSpark) — turn numbers into sparklines |
-| **Time & reliability** | [ClockworkCLI](https://github.com/dan2756/ClockworkCLI) — run commands on intervals · [FlakeRadar](https://github.com/dan2756/FlakeRadar) — find intermittent command failures |
+<p>
+  <a href="https://github.com/dan2756/PortReaper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/portreaper-dark.svg"><img src="assets/portreaper-light.svg" width="49%" alt="PortReaper: see what's holding a port and stop it"></picture></a>
+  <a href="https://github.com/dan2756/BranchBroom"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/branchbroom-dark.svg"><img src="assets/branchbroom-light.svg" width="49%" alt="BranchBroom: clear out merged and old Git branches"></picture></a>
+  <a href="https://github.com/dan2756/PipeSpark"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pipespark-dark.svg"><img src="assets/pipespark-light.svg" width="49%" alt="PipeSpark: turn numbers into a sparkline"></picture></a>
+  <a href="https://github.com/dan2756/JSONSilhouette"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/jsonsilhouette-dark.svg"><img src="assets/jsonsilhouette-light.svg" width="49%" alt="JSONSilhouette: the shape of unfamiliar JSON"></picture></a>
+  <a href="https://github.com/dan2756/TodoFossil"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/todofossil-dark.svg"><img src="assets/todofossil-light.svg" width="49%" alt="TodoFossil: list TODOs by age"></picture></a>
+  <a href="https://github.com/dan2756/FlakeRadar"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/flakeradar-dark.svg"><img src="assets/flakeradar-light.svg" width="49%" alt="FlakeRadar: measure how flaky a command is"></picture></a>
+</p>
 
 <details>
-<summary><strong>Open the full toolbox / 20 projects</strong></summary>
+<summary><b>All 20 tools</b></summary>
 
 <br>
 
@@ -50,27 +44,23 @@ Small commands for the little things that interrupt a good workflow.
 | :--- | :--- |
 | [BatteryBeacon](https://github.com/dan2756/BatteryBeacon) | Battery stats as JSON |
 | [BranchBroom](https://github.com/dan2756/BranchBroom) | List and delete old or merged Git branches |
-| [ClipboardCurrent](https://github.com/dan2756/ClipboardCurrent) | Stream clipboard changes to the terminal |
+| [ClipboardCurrent](https://github.com/dan2756/ClipboardCurrent) | Watch clipboard changes as they happen |
 | [ClockworkCLI](https://github.com/dan2756/ClockworkCLI) | Run commands on a simple interval schedule |
-| [CommandChronicle](https://github.com/dan2756/CommandChronicle) | Log command execution times |
-| [EchoSieve](https://github.com/dan2756/EchoSieve) | Filter duplicate lines from a stream |
+| [CommandChronicle](https://github.com/dan2756/CommandChronicle) | Log how long commands take |
+| [EchoSieve](https://github.com/dan2756/EchoSieve) | Filter duplicate lines out of a stream |
 | [EnvRift](https://github.com/dan2756/EnvRift) | Compare environment files |
-| [FlakeRadar](https://github.com/dan2756/FlakeRadar) | Repeat commands to spot intermittent failures |
-| [FolderFootnotes](https://github.com/dan2756/FolderFootnotes) | Leave notes attached to directories |
-| [FolderSentry](https://github.com/dan2756/FolderSentry) | Track folder growth |
-| [JSONSilhouette](https://github.com/dan2756/JSONSilhouette) | Print the structure of JSON |
-| [PipeSpark](https://github.com/dan2756/PipeSpark) | Turn piped numbers into sparklines |
-| [PortReaper](https://github.com/dan2756/PortReaper) | Find and stop the process using a port |
+| [FlakeRadar](https://github.com/dan2756/FlakeRadar) | Repeat a command to catch intermittent failures |
+| [FolderFootnotes](https://github.com/dan2756/FolderFootnotes) | Leave notes attached to folders |
+| [FolderSentry](https://github.com/dan2756/FolderSentry) | Track how folders grow |
+| [JSONSilhouette](https://github.com/dan2756/JSONSilhouette) | Show the structure of JSON |
+| [PipeSpark](https://github.com/dan2756/PipeSpark) | Turn numbers into sparklines |
+| [PortReaper](https://github.com/dan2756/PortReaper) | Find and stop whatever is using a port |
 | [ProcessPerch](https://github.com/dan2756/ProcessPerch) | Group helper processes in a Mac task manager |
-| [ReadySentinel](https://github.com/dan2756/ReadySentinel) | Wait for a port, URL, file, or process |
-| [SinceStamp](https://github.com/dan2756/SinceStamp) | Track time since you last did something |
-| [StreamGovernor](https://github.com/dan2756/StreamGovernor) | Limit the rate of output lines |
-| [TerminalCourier](https://github.com/dan2756/TerminalCourier) | Send terminal input as a notification |
-| [TodoFossil](https://github.com/dan2756/TodoFossil) | List TODOs with their Git blame age |
-| [WebhookWarden](https://github.com/dan2756/WebhookWarden) | Receive local webhooks and trigger commands |
+| [ReadySentinel](https://github.com/dan2756/ReadySentinel) | Wait for a port, URL, file or process |
+| [SinceStamp](https://github.com/dan2756/SinceStamp) | Track how long since you last did something |
+| [StreamGovernor](https://github.com/dan2756/StreamGovernor) | Rate-limit lines of output |
+| [TerminalCourier](https://github.com/dan2756/TerminalCourier) | Send text to yourself as a notification |
+| [TodoFossil](https://github.com/dan2756/TodoFossil) | List TODOs by how old they are |
+| [WebhookWarden](https://github.com/dan2756/WebhookWarden) | Receive local webhooks and run commands |
 
 </details>
-
----
-
-<sub>Built around the command line. One useful project at a time.</sub>
