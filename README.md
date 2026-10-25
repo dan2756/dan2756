@@ -32,10 +32,10 @@ Posting stays manual, just faster. Pick a finished video and ReelForge copies ea
 
 ## Go tools
 
+- [**ReadySentinel**](https://github.com/dan2756/ReadySentinel): wait for a port, URL, file or process before the next step runs
 - [**PortReaper**](https://github.com/dan2756/PortReaper): see what's holding a port and stop it
-- [**BranchBroom**](https://github.com/dan2756/BranchBroom): find merged and months-old Git branches and clear them out
+- [**TerminalCourier**](https://github.com/dan2756/TerminalCourier): get a ping on your phone, Slack or Discord when a long command finishes
 - [**FlakeRadar**](https://github.com/dan2756/FlakeRadar): run a test over and over to see how flaky it really is
-- [**TodoFossil**](https://github.com/dan2756/TodoFossil): list every TODO by how long it's been sitting in the code
-- [**JSONSilhouette**](https://github.com/dan2756/JSONSilhouette): get the shape of unfamiliar JSON without scrolling through it
+- [**EnvRift**](https://github.com/dan2756/EnvRift): catch `.env` files that have drifted apart before someone's app crashes
 
 The rest are in [my repositories](https://github.com/dan2756?tab=repositories).
