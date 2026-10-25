@@ -19,6 +19,8 @@ Here are the languages I code in:
   <a href="https://www.gnu.org/software/bash/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash&theme=dark"><img src="https://skillicons.dev/icons?i=bash&theme=light" height="44" alt="Bash"></picture></a>
 </p>
 
+---
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/reelforge-logo-dark.png"><img src="assets/reelforge-logo-light.png" height="56" alt="ReelForge"></picture>
 
 ReelForge is a home base for a short-form video channel. It tracks followers, views and likes hour by hour on TikTok, YouTube, Instagram and X, and scores every video against your typical one so you can see what's working.
