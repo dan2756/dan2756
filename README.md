@@ -1,27 +1,26 @@
 # Hi, I'm DJ
 
-I'm a senior in high school planning to study computer science. Most of what I make starts as a fix for something that annoyed me: a dashboard for the short-form videos I post, and a stack of small Go tools for the everyday stuff that slows down coding.
+I'm currently a senior in high school planning to study computer science. Most of what I make starts as a fix for something that annoyed me: a dashboard for the short-form videos I post, and a stack of small Go tools for the everyday stuff that slows down coding.
 
 Here are the languages I code in:
 
 <p>
-  <a href="https://go.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go&theme=dark"><img src="https://skillicons.dev/icons?i=go&theme=light" height="44" alt="Go"></picture></a>
-  <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark"><img src="https://skillicons.dev/icons?i=python&theme=light" height="44" alt="Python"></picture></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark"><img src="https://skillicons.dev/icons?i=js&theme=light" height="44" alt="JavaScript"></picture></a>
-  <a href="https://www.typescriptlang.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark"><img src="https://skillicons.dev/icons?i=ts&theme=light" height="44" alt="TypeScript"></picture></a>
-  <a href="https://en.wikipedia.org/wiki/SQL"><img src="assets/sql.svg" height="44" alt="SQL"></a>
-  <a href="https://dev.java"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java&theme=dark"><img src="https://skillicons.dev/icons?i=java&theme=light" height="44" alt="Java"></picture></a>
-  <a href="https://isocpp.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp&theme=dark"><img src="https://skillicons.dev/icons?i=cpp&theme=light" height="44" alt="C++"></picture></a>
-  <a href="https://learn.microsoft.com/dotnet/csharp/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs&theme=dark"><img src="https://skillicons.dev/icons?i=cs&theme=light" height="44" alt="C#"></picture></a>
-  <a href="https://www.rust-lang.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust&theme=dark"><img src="https://skillicons.dev/icons?i=rust&theme=light" height="44" alt="Rust"></picture></a>
-  <a href="https://en.cppreference.com/w/c"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c&theme=dark"><img src="https://skillicons.dev/icons?i=c&theme=light" height="44" alt="C"></picture></a>
-  <a href="https://www.swift.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift&theme=dark"><img src="https://skillicons.dev/icons?i=swift&theme=light" height="44" alt="Swift"></picture></a>
-  <a href="https://www.gnu.org/software/bash/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash&theme=dark"><img src="https://skillicons.dev/icons?i=bash&theme=light" height="44" alt="Bash"></picture></a>
+  <a href="https://go.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go&theme=dark"><img src="https://skillicons.dev/icons?i=go&theme=light" height="44" alt="Go" title="Go"></picture></a>
+  <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark"><img src="https://skillicons.dev/icons?i=python&theme=light" height="44" alt="Python" title="Python"></picture></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark"><img src="https://skillicons.dev/icons?i=js&theme=light" height="44" alt="JavaScript" title="JavaScript"></picture></a>
+  <a href="https://www.typescriptlang.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark"><img src="https://skillicons.dev/icons?i=ts&theme=light" height="44" alt="TypeScript" title="TypeScript"></picture></a>
+  <a href="https://en.wikipedia.org/wiki/SQL"><img src="assets/sql.svg" height="44" alt="SQL" title="SQL"></a>
+  <a href="https://dev.java"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java&theme=dark"><img src="https://skillicons.dev/icons?i=java&theme=light" height="44" alt="Java" title="Java"></picture></a>
+  <br>
+  <a href="https://isocpp.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp&theme=dark"><img src="https://skillicons.dev/icons?i=cpp&theme=light" height="44" alt="C++" title="C++"></picture></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs&theme=dark"><img src="https://skillicons.dev/icons?i=cs&theme=light" height="44" alt="C#" title="C#"></picture></a>
+  <a href="https://www.rust-lang.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust&theme=dark"><img src="https://skillicons.dev/icons?i=rust&theme=light" height="44" alt="Rust" title="Rust"></picture></a>
+  <a href="https://en.cppreference.com/w/c"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c&theme=dark"><img src="https://skillicons.dev/icons?i=c&theme=light" height="44" alt="C" title="C"></picture></a>
+  <a href="https://www.swift.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift&theme=dark"><img src="https://skillicons.dev/icons?i=swift&theme=light" height="44" alt="Swift" title="Swift"></picture></a>
+  <a href="https://www.gnu.org/software/bash/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash&theme=dark"><img src="https://skillicons.dev/icons?i=bash&theme=light" height="44" alt="Bash" title="Bash"></picture></a>
 </p>
 
----
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/reelforge-logo-dark.png"><img src="assets/reelforge-logo-light.png" height="56" alt="ReelForge"></picture>
+## <a href="https://reelforge.fyi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/reelforge-logo-dark.png"><img src="assets/reelforge-logo-light.png" height="48" align="top" alt="ReelForge"></picture></a>
 
 ReelForge is a home base for a short-form video channel. It tracks followers, views and likes hour by hour on TikTok, YouTube, Instagram and X, and scores every video against your typical one so you can see what's working.
 
