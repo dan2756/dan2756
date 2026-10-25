@@ -20,18 +20,18 @@ Here are the languages I code in:
   <a href="https://www.gnu.org/software/bash/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash&theme=dark"><img src="https://skillicons.dev/icons?i=bash&theme=light" height="44" alt="Bash" title="Bash"></picture></a>
 </p>
 
-## <a href="https://reelforge.fyi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/reelforge-logo-dark.png"><img src="assets/reelforge-logo-light.png" height="48" align="top" alt="ReelForge"></picture></a>
+## <a href="https://reelforge.tools"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/reelforge-logo-dark.png"><img src="assets/reelforge-logo-light.png" height="48" align="top" alt="ReelForge"></picture></a>
 
 ReelForge is a home base for a short-form video channel. It tracks followers, views and likes hour by hour on TikTok, YouTube, Instagram and X, and scores every video against your typical one so you can see what's working.
 
 Posting stays manual, just faster. Pick a finished video and ReelForge copies each platform's caption, shows you the file and opens the upload page. No API keys or developer accounts needed.
 
-<a href="https://reelforge.fyi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/open-reelforge-dark.svg"><img src="assets/open-reelforge-light.svg" height="44" alt="Open ReelForge at reelforge.fyi"></picture></a>
+<a href="https://reelforge.tools"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/open-reelforge-dark.svg"><img src="assets/open-reelforge-light.svg" height="44" alt="Open ReelForge at reelforge.tools"></picture></a>
 <a href="https://github.com/dan2756/ReelForge"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/view-repository-dark.svg"><img src="assets/view-repository-light.svg" height="44" alt="View the ReelForge repository"></picture></a>
 
 <br>
 
-<a href="https://reelforge.fyi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/reelforge-dark.svg"><img src="assets/reelforge-light.svg" width="100%" alt="ReelForge's overview: followers, views and likes per hour across TikTok, YouTube, Instagram and X"></picture></a>
+<a href="https://reelforge.tools"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/reelforge-dark.svg"><img src="assets/reelforge-light.svg" width="100%" alt="ReelForge's overview: followers, views and likes per hour across TikTok, YouTube, Instagram and X"></picture></a>
 
 ## Go tools
 
