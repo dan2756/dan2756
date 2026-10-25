@@ -1,6 +1,8 @@
 # Hi, I'm DJ
 
-Most of what I make starts as a fix for something that annoyed me: a dashboard for the short-form videos I post, and a stack of small Go tools for the everyday stuff that slows down coding.
+I'm a senior in high school planning to study computer science. Most of what I make starts as a fix for something that annoyed me: a dashboard for the short-form videos I post, and a stack of small Go tools for the everyday stuff that slows down coding.
+
+Here are the languages I code in:
 
 <p>
   <a href="https://go.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go&theme=dark"><img src="https://skillicons.dev/icons?i=go&theme=light" height="44" alt="Go"></picture></a>
