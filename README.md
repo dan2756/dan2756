@@ -1,6 +1,6 @@
 # Hi, I'm DJ
 
-I'm currently a senior in high school planning to study computer science. Most of what I make starts as a fix for something that annoyed me: a dashboard for the short-form videos I post, and a stack of small Go tools for the everyday stuff that slows down coding.
+I'm a high school senior planning to study computer science. Most of what I build starts as a fix for something that annoyed me: a dashboard for the short-form videos I post, and a handful of small Go tools that take the friction out of everyday coding.
 
 Here are the languages I code in:
 
